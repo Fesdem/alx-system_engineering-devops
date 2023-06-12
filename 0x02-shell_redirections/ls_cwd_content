@@ -1,0 +1,34 @@
+total 76
+drwxrwxr-x 2 vagrant vagrant  4096 Jun 10 18:36 .
+drwxrwxr-x 6 vagrant vagrant  4096 Jun 10 17:30 ..
+-rw------- 1 vagrant vagrant 12288 Jun 10 17:45 .1-confused_smiley.swp
+-rw-r--r-- 1 vagrant vagrant 12288 Jun 10 18:28 .7-file.swp
+-rwxrw-r-- 1 vagrant vagrant    32 Jun 10 17:35 0-hello_world
+-rwxrw-r-- 1 vagrant vagrant    28 Jun 10 17:49 2-hellofile
+-rwxrw-r-- 1 vagrant vagrant    39 Jun 10 18:04 3-twofiles
+-rwxrw-r-- 1 vagrant vagrant    35 Jun 10 18:15 4-lastlines
+-rwxrw-r-- 1 vagrant vagrant    35 Jun 10 18:17 5-firstlines
+-rwxrw-r-- 1 vagrant vagrant    36 Jun 10 18:22 6-third_line
+-rwxrw-r-- 1 vagrant vagrant    78 Jun 10 18:27 7-file
+-rwxrw-r-- 1 vagrant vagrant    37 Jun 10 18:36 8-cwd_state
+-rw-rw-r-- 1 vagrant vagrant    19 Jun 10 17:31 README.md
+-rw-rw-r-- 1 vagrant vagrant   152 Jun 10 18:29 \*\'Best
+-rw-rw-r-- 1 vagrant vagrant   801 Jun 10 18:19 iacta
+-rw-rw-r-- 1 vagrant vagrant     0 Jun 10 18:35 ls_cwd_content
+total 80
+drwxrwxr-x 2 vagrant vagrant  4096 Jun 10 18:36 .
+drwxrwxr-x 6 vagrant vagrant  4096 Jun 10 17:30 ..
+-rw------- 1 vagrant vagrant 12288 Jun 10 17:45 .1-confused_smiley.swp
+-rw-r--r-- 1 vagrant vagrant 12288 Jun 10 18:28 .7-file.swp
+-rwxrw-r-- 1 vagrant vagrant    32 Jun 10 17:35 0-hello_world
+-rwxrw-r-- 1 vagrant vagrant    28 Jun 10 17:49 2-hellofile
+-rwxrw-r-- 1 vagrant vagrant    39 Jun 10 18:04 3-twofiles
+-rwxrw-r-- 1 vagrant vagrant    35 Jun 10 18:15 4-lastlines
+-rwxrw-r-- 1 vagrant vagrant    35 Jun 10 18:17 5-firstlines
+-rwxrw-r-- 1 vagrant vagrant    36 Jun 10 18:22 6-third_line
+-rwxrw-r-- 1 vagrant vagrant    78 Jun 10 18:27 7-file
+-rwxrw-r-- 1 vagrant vagrant    37 Jun 10 18:36 8-cwd_state
+-rw-rw-r-- 1 vagrant vagrant    19 Jun 10 17:31 README.md
+-rw-rw-r-- 1 vagrant vagrant   152 Jun 10 18:29 \*\'Best
+-rw-rw-r-- 1 vagrant vagrant   801 Jun 10 18:19 iacta
+-rw-rw-r-- 1 vagrant vagrant   951 Jun 10 18:37 ls_cwd_content
